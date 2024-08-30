@@ -203,7 +203,7 @@ PPO训练过程中的数据流动如下图所示
 
 ```json
 {
-promtp: "\n\nHuman: What kind of noises did dinosaurs make?\n\nAssistant: Humans and dinosaurs didn’t live at the same time, so it’s really hard to say. The best place to find out what noises dinosaurs made would be\n\nHuman: yes they did\n\nAssistant: to guess, and that would probably require lots of reading and a certain amount of imagination, so we’re not really prepared to do that.\n\nHuman: you cant read"
+"promtp": "\n\nHuman: What kind of noises did dinosaurs make?\n\nAssistant: Humans and dinosaurs didn’t live at the same time, so it’s really hard to say. The best place to find out what noises dinosaurs made would be\n\nHuman: yes they did\n\nAssistant: to guess, and that would probably require lots of reading and a certain amount of imagination, so we’re not really prepared to do that.\n\nHuman: you cant read"
 }
 ```
 
